@@ -8,7 +8,7 @@ Used RBCmd.exe to analyze deleted files that are still present in the Recycle Bi
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/AXLT885.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
